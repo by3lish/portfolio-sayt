@@ -1,2 +1,2 @@
-# portfolio-sayt
-Glassmorphizm dizaynlı, Sadə Portfolio saytı
+# Full Responsive Portfolio saytı
+Glassmorphizm dizaynlı, Full Responsive Portfolio saytı
