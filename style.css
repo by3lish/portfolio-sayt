@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&family=Work+Sans&display=swap');
 * {
   margin: 0;
@@ -28,7 +27,7 @@ body {
   align-items: center;
 }
 
-/* ---------- main section ---------- */
+/* ---------- əsas hissə ---------- */
 #main {
   width: 100%;
   /* height: 50em; */
@@ -90,7 +89,7 @@ body {
   z-index: -1;
 }
 
-/* ---------- about section ---------- */
+/* ---------- haqqında hissəsi ---------- */
 .about {
   width: 100%;
   background: #1a1a1a;
@@ -113,10 +112,10 @@ body {
   font-size: 1.4em;
   color: var(--color);
   opacity: 0.6;
-  text-align: center;
+  text-align: left;
 }
 
-/* ---------- skills section ---------- */
+/* ---------- bacarıqlar hissəsi ---------- */
 .skills {
   width: 100%;
   /* height: 50em; */
@@ -236,7 +235,7 @@ footer .social_media_icons a:hover i{
 
 
 
-/* ---------- Media Query ---------- */
+/* ---------- Responsivlik üçün Media Query ---------- */
 @media (max-width: 1120px) {
   #main .user_img img {
     width: 25em;
